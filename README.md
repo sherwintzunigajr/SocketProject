@@ -1,2 +1,2 @@
-# SocketProject
-CSE434 Socket Project
+# TWEETER
+CSE434 Simple Socket Program
